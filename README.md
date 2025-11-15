@@ -119,12 +119,13 @@ plt.title("Eyes in Group Image")
 plt.show()
 ```
 ## Output
-<img width="296" height="353" alt="image" src="https://github.com/user-attachments/assets/22fc2707-d290-450e-817f-e553a7fc58d5" />
-<img width="397" height="358" alt="image" src="https://github.com/user-attachments/assets/26cbe3a2-ecd4-480d-9ce8-801d125a421b" />
-<img width="298" height="362" alt="image" src="https://github.com/user-attachments/assets/af278112-473f-4c5f-b9d4-c643d5a7c339" />
-<img width="397" height="357" alt="image" src="https://github.com/user-attachments/assets/531cb320-53ec-4824-a649-8c7f3febaffa" />
-<img width="290" height="362" alt="image" src="https://github.com/user-attachments/assets/0cb19cfb-796b-4332-82d2-63408c1f26ae" />
-<img width="425" height="363" alt="image" src="https://github.com/user-attachments/assets/3bc33d15-7567-45e2-aefa-6a97dd496ad5" />
+<img width="440" height="435" alt="image" src="https://github.com/user-attachments/assets/9b66f16b-3618-4609-9845-b33801657058" />
+<img width="566" height="371" alt="image" src="https://github.com/user-attachments/assets/0b9e4835-f1ea-4377-b94d-0aee163979be" />
+<img width="440" height="435" alt="image" src="https://github.com/user-attachments/assets/2283bceb-abce-4417-815a-781e7686725c" />
+<img width="566" height="371" alt="image" src="https://github.com/user-attachments/assets/2a0b9f2d-6936-4af8-9cfc-ff6844323b5b" />
+<img width="440" height="435" alt="image" src="https://github.com/user-attachments/assets/a2aa7886-66e9-4759-b5bd-169cc20333fc" />
+<img width="566" height="371" alt="image" src="https://github.com/user-attachments/assets/629862f2-2b2a-41ac-963e-2d0f6d9432de" />
+
 
 ## Result
 
